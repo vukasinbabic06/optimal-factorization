@@ -3,7 +3,8 @@
 This repository contains a Python implementation of the algorithm proposed in the paper:
 
 **"Optimized Multistage Decimation Based on Optimal Factorization of Decimation Ratio"**
-*Vukasin Babic and Djordje Babic*, accepted for publication in *IEEE Signal Processing Letters*, 2025.
+*Vukasin Babic and Djordje Babic*, *IEEE Signal Processing Letters*, 2025.
+DOI: 10.1109/LSP.2025.3595512
 
 ## Description
 
