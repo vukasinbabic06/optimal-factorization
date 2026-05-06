@@ -25,3 +25,9 @@ cost, factors = find_optimal_factorization(delta_p, delta_s, f_p, R, F_in)
 print("Computation cost:", cost)
 print("FIR factors:", factors)
 ```
+
+## Poster
+
+ICASSP 2026 poster presentation:
+
+- [ICASSP 2026 Poster (PDF)](icassp2026_poster.pdf)
